@@ -81,4 +81,3 @@ void menuExit() {
 void errorMessage() {;
     printf("-*-*-*You selected invalid number*-*-*-*\n");
 }
-
