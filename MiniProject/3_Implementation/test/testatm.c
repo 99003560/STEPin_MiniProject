@@ -3,7 +3,7 @@
 
 /* Modify these two lines according to the project */
 #include <head.h>
-#define PROJECT_NAME    "ATM_machine"
+#define PROJECT_NAME    "AutomatedTellerMachine"
 
 /* Prototypes for all the test functions */
 
